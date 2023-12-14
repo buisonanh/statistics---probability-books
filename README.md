@@ -7,6 +7,6 @@
 - Counting techniques
 - Further probability theory
 
-# **Distribution:**
+# **Distribution**
 - The binomial distribution 
 - The normal distribution
