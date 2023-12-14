@@ -1,12 +1,12 @@
 # **Statistics**
-    - Introduction to descriptive statistics
+- Introduction to descriptive statistics
 
 # **Probability**
-    - Basic concepts in probability
-    - Introduction to probability theory
-    - Counting techniques
-    - Further probability theory
+- Basic concepts in probability
+- Introduction to probability theory
+- Counting techniques
+- Further probability theory
 
 # **Distribution:**
-    - The binomial distribution 
-    - The normal distribution
+- The binomial distribution 
+- The normal distribution
